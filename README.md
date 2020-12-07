@@ -7,6 +7,12 @@ The system analyses user credit card data for various characteristics like user 
 
 ## Core Features:
 
-* The system stores previous transaction patterns for each user.
-* Based upon the user spending ability and even country, it calculates user’s characteristics.
-* More than 50 % deviation of users transaction(spending history and operating country) can be considered as an invalid attempt and system can take appropriate action.
+* ***The system stores previous transaction patterns for each user.***
+* ***Based upon the user spending ability and even country, it calculates user’s characteristics.***
+* ***More than 50 % deviation of users transaction(spending history and operating country) can be considered as an invalid attempt and system can take appropriate action.***
+* ***System will automatically block the user from using the credit card unless he/she proves
+
+![alt text](https://thumbs.dreamstime.com/b/credit-card-blocked-ban-sign-white-background-ban-sign-30479098.jpg)
+
+
+This could hence forth control the credit card frauds happening and make online shopping more safe and reliable for customers.
